@@ -1,4 +1,4 @@
 strip
 =====
 
-s-trip
+Online test answers for S-trip Web Developer job
